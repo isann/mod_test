@@ -1,6 +1,7 @@
 package main
-import "rsc.io/quote"
+
+import "rsc.io/quote/v3"
 
 func main() {
-  print(quote.Hello())
+  print(quote.HelloV3())
 }

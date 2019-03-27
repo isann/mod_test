@@ -1,3 +1,3 @@
 module github.com/isann/mod_test
 
-require rsc.io/quote v1.5.2
+require rsc.io/quote/v3 v3.0.0
